@@ -1,0 +1,46 @@
+.body{
+    background:rgba(0, 128, 0, 0.3);
+    height: 1000px;
+    width: 300px;
+    margin-top: 200-x;
+    margin-left: 0px;
+    padding-top: 250px;
+}
+
+.formBody{
+
+    margin-left:  35%;
+    height: 100%;
+}
+
+.formName{
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.formEmail{
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.formPhone{
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.formTown{
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.formDescription{
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.form-control{
+    height: 35px;
+    width: 500px;
+    margin-bottom: 20px;
+    
+}
